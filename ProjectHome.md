@@ -1,0 +1,1 @@
+This project will be used for managing the money for an individual. This is developed on my personal requirements and would extend the features as and when I feel this should be added and possible for me because I am still new to PHP.
